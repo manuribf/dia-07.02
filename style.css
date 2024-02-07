@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;      
+    justify-content: center;
+    align-items: center;
+}
+
+section{
+    border-radius: 10px;
+    border: 2px solid #0000ff;
+    padding: 100px;
+}
+
+#perfil {
+    text-align: center;
+}
+
+#nome {
+    text-emphasis: center;
+}
+
+#idade {
+    text-emphasis-position: center;
+}
+
+#motivo {
+    text-emphasis: center;
+}
+
+input{
+     margin: 100%;
+     padding: 8px;
+     border-radius: 10px;
+     border: 1px solid #0000ff;
+     width: 100%;
+     box-sizing: content-box;
+
+}
+
